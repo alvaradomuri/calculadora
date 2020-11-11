@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+    text-align: center;
+ 
+}
+body{
+    color:yellow;
+    font-size:30px;
+    font-family:Courier;
+    border:10px;
+    border-color:purple;
+    border-style:solid;
+    width:150px; 
+    height:200px
+}
+.pantalla{
+    background: purple ;
+}
+.boton{
+    Border: solid;
+    Background: 5px;
+}
+.fila{
+    background-color: violet
+}
